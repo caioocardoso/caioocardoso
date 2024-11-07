@@ -15,4 +15,4 @@
 </div><br>
 📖 Cursando Análise e Desenvolvimento de Sistemas no IFBA. 
 <br/>
-📧: caiooliveiracardosoo@gmail.com
+📧 caiooliveiracardosoo@gmail.com
