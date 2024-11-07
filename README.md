@@ -5,8 +5,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/](https://open.spotify.com/user/21p5tw4aj24752v6hyrrdhrga?si=fc52cbd8cf6a4eab))
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioocardoso&show_icons=true&theme=dracula" alt="Caio Cardoso GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioocardoso&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Top Langs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioocardoso&show_icons=true&theme=tokyonight" alt="Caio Cardoso GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioocardoso&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 ## 🛠 Tech Stack
