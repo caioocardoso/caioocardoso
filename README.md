@@ -9,7 +9,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioocardoso&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
 </div>
 
-## 🛠 Tech Stack
 <div style="display:inline_block"><br>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
