@@ -12,6 +12,7 @@
 <div style="display:inline_block"><br>
 	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+	<img src="[https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 </div><br>
 📖 Cursando Análise e Desenvolvimento de Sistemas no IFBA. 
 <br/>
