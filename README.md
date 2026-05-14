@@ -1,12 +1,13 @@
 
-## Olá me chamo Caio Cardoso!
+## Oiii! Eu sou Caio Cardoso
 
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21p5tw4aj24752v6hyrrdhrga?si=fc52cbd8cf6a4eab)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=caioocardoso)
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioocardoso&show_icons=true&theme=tokyonight" alt="Caio Cardoso GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioocardoso&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=caioocardoso&show_icons=true&theme=tokyonight" alt="Caio Cardoso GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caioocardoso&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
 </div>
 
 <div style="display:inline_block"><br>
